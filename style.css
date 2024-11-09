@@ -9,7 +9,7 @@ body {
 
 form {
     margin: auto;
-    background-color: rgb(228, 242, 255);
+    background-color: rgb(168, 198, 226);
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     padding: 20px;
@@ -26,7 +26,7 @@ fieldset {
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
-    background-color: aliceblue;
+    background-color: lightblue;
 }
 
 legend {
@@ -46,7 +46,7 @@ input,textarea {
     margin-top: 4px;
     padding: 8px;
     width: calc(100% - 1px);
-    border: 1px solid skyblue;
+    border: 1px solid rgb(6, 58, 78);
     border-radius: 4px;
     box-sizing: border-box;
 }
@@ -74,7 +74,7 @@ button :hover {
     max-width: 600px;
     margin: auto;
     padding: 20px;
-    border: 2px solid skyblue;
+    border: 2px solid rgb(3, 31, 43);
     border-radius: 8px;
     background-color: rgb(228, 242, 255);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
